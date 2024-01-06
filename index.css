@@ -329,7 +329,7 @@ body {
     }
     .btn{
         position: relative;
-        right: 500px;
+        right: 600px;
     }
     #back{
         width: 180px;
@@ -369,14 +369,14 @@ body {
     }
     .btn{
         position: relative;
-        right: 500px;
+        right: 600px;
     }
     #back{
         width: 180px;
        
     }
     #empty{
-        width: 300px;
+        width: 240px;
     }
 }
 @media only screen and (max-width:400px) and (min-width:200px) {
@@ -409,7 +409,7 @@ body {
     }
     .btn{
         position: relative;
-        right: 600px;
+        right: 650px;
     }
     #back{
         width: 180px;
