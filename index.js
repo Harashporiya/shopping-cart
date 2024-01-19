@@ -358,7 +358,7 @@ cartElements.addEventListener('click', function () {
 
 
             const clearButtonHTML = `
-           <div>
+           <div id="bill_check">
         <p class="bill">Total Bill: &#8377; ${totalBill}</p>
         <button class="check">Checkout</button>
         <button class="clear">Clear Cart</button>

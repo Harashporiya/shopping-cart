@@ -146,13 +146,14 @@ body {
     border: none;
     background-color: green;
     position: absolute;
-    bottom: 550px;
+    bottom: 780px;
     left: 650px;
     border-radius: 4px;
 }
+
 .clear{
     position: absolute;
-    bottom: 550px;
+    bottom: 780px;
     border-radius: 4px;
     left: 750px;
     color: white;
@@ -162,7 +163,7 @@ body {
 }
 .bill{
     position: absolute;
-    bottom: 550px;
+    bottom: 790px;
     border-radius: 4px;
     margin-left: 650px;
     color: rgb(52, 63, 88);
